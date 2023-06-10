@@ -1,2 +1,2 @@
-#define SECRET_SSID ""
-#define SECRET_PASS ""
+#define SECRET_SSID "lorawannet"
+#define SECRET_PASS "1122334455"
